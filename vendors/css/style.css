@@ -1,0 +1,103 @@
+/* box dimensions */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: full;
+
+}
+
+
+
+/*these are the header tags */
+
+
+h1 {
+    color: rgba(119, 60, 60, 0.75);
+    font-size-adjust: inherit;
+    font-size: xx-large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+h2 {
+    color: aqua;
+    font: 300;
+    font-size: 500;
+    text-underline-position: below;
+    font-family: sans-serif;
+}
+
+/*Custom Headers   */
+p {
+    color: black;
+    
+}
+
+.About_Me {
+    color: black;
+    font-size: 100px;
+    margin-bottom: 20px;
+
+
+
+}
+
+.title {
+    text-align: left;
+    margin-bottom: 20px;
+    border-bottom: 5px solid darksalmon;
+    padding-bottom: 10px;
+
+
+}
+
+/* Picture Containers   */
+
+
+.code_images {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    justify-content: left;
+
+
+}
+
+.My_Portfolio {
+    border-top: 5px solid salmon;
+    
+}
+
+/* all of the divs */
+
+.entire_page {
+    width: 1140px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+
+}
+
+.float_test {
+    float: right;
+    width: 400;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.form_php {
+    float: right;
+    position: absolute;
+}
