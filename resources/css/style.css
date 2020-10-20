@@ -71,3 +71,78 @@ h1 {
 .youtube {
     background-image: url(img/youtube.svg);
 }
+
+/* main css */
+
+#main_porfolio {
+    background-image: url(img/hacker-1944688_1280.jpg);
+/* interesting section here we might need to change it */
+}
+
+.portfolio {
+    position: relative;
+    width: 100%;
+    height: 600px;
+}
+
+#main_portfolio_container {
+    background-image: url(img/hacker-1944688_1280.jpg);
+}
+
+.portfolio-container {
+    position: relative;
+    width: 1200px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* text box on the top of the fold */
+
+.main_portfolio_text_box {
+    position: absolute;
+    width: 360px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.main_portfolio_text_box_left {
+    left: 0px;
+}
+
+/* main title on top of the fold */ 
+.main_portfolio_text_title {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 70px;
+    line-height: 56px;
+    margin-bottom: 18px;
+}
+
+/* main text at the top of the fold */
+
+.main_portfolio_text_body {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 20px;
+}
+
+/* main button */
+
+.main_portfolio_text_button {
+    position: relative;
+    display: inline-block;
+    padding: 12px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+}
