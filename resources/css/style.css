@@ -15,12 +15,6 @@ html {
 
 }
 
-.row {
-    max-width: 1200px;
-    margin: 0 auto;
-
-}
-
 #title-ben {
     top: 12px;
     float: left
@@ -36,7 +30,7 @@ html {
 
 #header_container  {
     position: relative;
-    width: 1200px;
+    width: 100%;
     height: 60px;
     margin-left: auto;
     margin-right: auto;
@@ -91,7 +85,7 @@ h1 {
 
 .portfolio-container {
     position: relative;
-    width: 1200px;
+    width: 100%;
     height: 600px;
     margin-left: auto;
     margin-right: auto;
