@@ -70,6 +70,7 @@ h1 {
 
 #main_porfolio {
     background-image: url(img/hacker-1944688_1280.jpg);
+    background-position: center;
 /* interesting section here we might need to change it */
 }
 
@@ -81,6 +82,7 @@ h1 {
 
 #main_portfolio_container {
     background-image: url(img/hacker-1944688_1280.jpg);
+    background-position: center;
 }
 
 .portfolio-container {
