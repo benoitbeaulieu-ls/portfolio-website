@@ -142,3 +142,19 @@ h1 {
     font-size: 14px;
     font-weight: bold;
 }
+
+/* second block */
+
+#second_portfolio {
+    background-color: aquamarine;
+}
+
+
+/*image container for our gif */
+
+.second_portfolio_gif_container {
+    position: absolute;
+    width: fit-content;
+    background-image: url(img/kali.gif);
+
+}
